@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Shreyanshi-Vashistha.github.io/static/css/main.173ac075.css",
-    "main.js": "/Shreyanshi-Vashistha.github.io/static/js/main.6a393dc9.js",
-    "static/media/homeWise.png": "/Shreyanshi-Vashistha.github.io/static/media/homeWise.186c4c4412b65a5ad231.png",
-    "static/media/aboutMe2.jpg": "/Shreyanshi-Vashistha.github.io/static/media/aboutMe2.9eb55645e2b135c208d3.jpg",
-    "static/media/aboutMe.jpg": "/Shreyanshi-Vashistha.github.io/static/media/aboutMe.0b07181e41c3564da90a.jpg",
-    "static/media/bgimg.jpg": "/Shreyanshi-Vashistha.github.io/static/media/bgimg.ee14a4771b9aeb776e6c.jpg",
-    "static/media/Shreyanshi_Vashistha_Resume.pdf": "/Shreyanshi-Vashistha.github.io/static/media/Shreyanshi_Vashistha_Resume.096f21bd779fb729b1a0.pdf",
-    "static/media/bgImg2.jpg": "/Shreyanshi-Vashistha.github.io/static/media/bgImg2.a6a3f5059bfa3d14f94a.jpg",
-    "static/media/SVlogo.png": "/Shreyanshi-Vashistha.github.io/static/media/SVlogo.bf9c10cbc7295b2c587f.png",
-    "index.html": "/Shreyanshi-Vashistha.github.io/index.html",
-    "main.173ac075.css.map": "/Shreyanshi-Vashistha.github.io/static/css/main.173ac075.css.map",
-    "main.6a393dc9.js.map": "/Shreyanshi-Vashistha.github.io/static/js/main.6a393dc9.js.map"
+    "main.css": "/static/css/main.b4577b01.css",
+    "main.js": "/static/js/main.71cfc02c.js",
+    "static/media/homeWise.png": "/static/media/homeWise.186c4c4412b65a5ad231.png",
+    "static/media/aboutMe2.jpg": "/static/media/aboutMe2.9eb55645e2b135c208d3.jpg",
+    "static/media/aboutMe.jpg": "/static/media/aboutMe.0b07181e41c3564da90a.jpg",
+    "static/media/bgimg.jpg": "/static/media/bgimg.ee14a4771b9aeb776e6c.jpg",
+    "static/media/Shreyanshi_Vashistha_Resume.pdf": "/static/media/Shreyanshi_Vashistha_Resume.096f21bd779fb729b1a0.pdf",
+    "static/media/bgImg2.jpg": "/static/media/bgImg2.a6a3f5059bfa3d14f94a.jpg",
+    "static/media/SVlogo.png": "/static/media/SVlogo.bf9c10cbc7295b2c587f.png",
+    "index.html": "/index.html",
+    "main.b4577b01.css.map": "/static/css/main.b4577b01.css.map",
+    "main.71cfc02c.js.map": "/static/js/main.71cfc02c.js.map"
   },
   "entrypoints": [
-    "static/css/main.173ac075.css",
-    "static/js/main.6a393dc9.js"
+    "static/css/main.b4577b01.css",
+    "static/js/main.71cfc02c.js"
   ]
 }
